@@ -2,6 +2,5 @@
 
 * [Home](/)
 * [About](./about.md)
-* [Contact]()
-* [Projects]()
-
+* [Contact](/contact.md)
+* [Projects](/contact.md)
