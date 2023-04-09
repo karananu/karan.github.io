@@ -1,8 +1,7 @@
-<img id="avatar" src="./avatar.png"/>
+<img id="avatar" src="./icon.png"/>
 
 * [Home](/)
-* [About]()
+* [About](./about.md)
 * [Contact]()
 * [Projects]()
-* [Blogs]()
 
